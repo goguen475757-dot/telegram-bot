@@ -3,7 +3,7 @@ import time
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, CallbackQueryHandler, filters, ContextTypes
 
-TOKEN = "8685025577:AAHK7DkzeTwP3aLzPz3ZPDGbTaTWmQeLDSI"
+TOKEN = "8676398540:AAGMJw_3yDSocYp-PajdBnJQAGGqF4OUEtc"
 
 user_links = {}
 user_time = {}
